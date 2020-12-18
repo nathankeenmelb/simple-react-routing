@@ -14,7 +14,7 @@ const widgetprods = [
 ];
 
 const wudgetprods = [
-  { name: "Master Wudget", price: "$75.00" },
+  { name: "Master Windu", price: "$75.00" },
   { name: "Sub Wudget", price: "$85.00" },
   { name: "Long Wudget", price: "$135.00" },
   { name: "Short Wudget", price: "$110.00" }
